@@ -8,13 +8,13 @@
     width: 700px;
   }
 }
-@media (max-width: 720px) {
+@media (max-width: 900px) {
   /* For a screen < 720px, this CSS will be read */
   .container {
     width: 500px;
   }
 }
-@media (max-width: 540px) {
+@media (max-width: 9000px) {
   /* For a screen < 540px, this CSS will be read */
   .container {
     width: 300px;
